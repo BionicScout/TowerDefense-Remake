@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: 73c206dbba668a942a08974e7a333cd4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: PoisonCast_96x96_Frame_0
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 157a86678dc99114ab82933abd7710a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 4}
+  - name: PoisonCast_96x96_Frame_1
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 74a196925b9c14044bf9306219ed2984
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 145}
+  - name: PoisonCast_96x96_Frame_2
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 0e7d07102951fe04fab82885a95e1958
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 286}
+  - name: PoisonCast_96x96_Frame_3
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 95ecf60dc1bd9a4478ea6e5e5713d18c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 427}
+  - name: PoisonCast_96x96_Frame_4
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 568
+      width: 133
+      height: 133
+    spriteID: b6d30c7960decbf43a3c29a6c6eb0c96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 568}
+  - name: PoisonCast_96x96_Frame_5
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 50b59599fba0b994c8645276212fc450
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 709}
+  - name: PoisonCast_96x96_Frame_6
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 850
+      width: 133
+      height: 133
+    spriteID: eae374ebef9e5b749acfecb0f0fa810c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1, y: 850}
+  - name: PoisonCast_96x96_Frame_7
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 8c296a70835867f44a5720c1c8cc819c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 4}
+  - name: PoisonCast_96x96_Frame_8
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 145
+      width: 133
+      height: 133
+    spriteID: b0d05fdc2ff64644db4ad4e663c94bc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 145}
+  - name: PoisonCast_96x96_Frame_9
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 33a08991e42532843b48f0cca7b4e67b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 286}
+  - name: PoisonCast_96x96_Frame_10
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 3c35f6ead8d23d44f8404a2d786d3890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 427}
+  - name: PoisonCast_96x96_Frame_11
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 568
+      width: 133
+      height: 133
+    spriteID: fc994e6123ba15f4cacee133d8d7fbc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 568}
+  - name: PoisonCast_96x96_Frame_12
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 709
+      width: 133
+      height: 133
+    spriteID: fcbdc58ec0dc1c645bf5885526827f92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 709}
+  - name: PoisonCast_96x96_Frame_13
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 850
+      width: 133
+      height: 133
+    spriteID: d3ee0c048271b5843b5fa70720bc7ef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 850}
+  - name: PoisonCast_96x96_Frame_14
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 0d7727df944500543807d127b0bfd4f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 4}
+  - name: PoisonCast_96x96_Frame_15
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 572c0f65faeb9b447aecd8a0e8fbe251
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 145}
+  - name: PoisonCast_96x96_Frame_16
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 4d0cadc3bb0a0424db1bfde54b021e98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 286}
+  - name: PoisonCast_96x96_Frame_17
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 427
+      width: 133
+      height: 133
+    spriteID: c11afd0d2f69237449b1f21869c7e971
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 427}
+  - name: PoisonCast_96x96_Frame_18
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 568
+      width: 133
+      height: 133
+    spriteID: df4bc589411ec3d45a1eefca19516f48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 568}
+  - name: PoisonCast_96x96_Frame_19
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 7fc27fd290ad96945952e1012d1e268c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 709}
+  - name: PoisonCast_96x96_Frame_20
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 850
+      width: 133
+      height: 133
+    spriteID: bd6ba576bf9d2d043b13d1d74ba210c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 850}
+  - name: PoisonCast_96x96_Frame_21
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 6459014188151514d8fbd203cc99f901
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 4}
+  - name: PoisonCast_96x96_Frame_22
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 145
+      width: 133
+      height: 133
+    spriteID: cfc1b3481e4c1024882ff49cdf9a5891
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 145}
+  - name: PoisonCast_96x96_Frame_23
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 286
+      width: 133
+      height: 133
+    spriteID: b26c33901a2d72945bcf1c27b9490dde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 286}
+  - name: PoisonCast_96x96_Frame_24
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 943cfc404232fa94faf407f9fad2f4ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 427}
+  - name: PoisonCast_96x96_Frame_25
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 80e8f719bbb6bd0418230074be4c1961
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 568}
+  - name: PoisonCast_96x96_Frame_26
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 06b44e7878abe1a44aa7443277224fe2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 709}
+  - name: PoisonCast_96x96_Frame_27
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 2af613c889f6ffa4aa9c03a2e7f92ef0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 850}
+  - name: PoisonCast_96x96_Frame_28
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 1f345a9e8518a4d4cb3709b21733c375
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 4}
+  - name: PoisonCast_96x96_Frame_29
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 50189bc105e0456489e931bdd2c9105e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 145}
+  - name: PoisonCast_96x96_Frame_30
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 286
+      width: 133
+      height: 133
+    spriteID: b89c6e02603d9af428dcc6ee77946cbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 286}
+  - name: PoisonCast_96x96_Frame_31
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 54c6a30f4e3a60c4dac37c5514786928
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 427}
+  - name: PoisonCast_96x96_Frame_32
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 568
+      width: 133
+      height: 133
+    spriteID: ba3e26f9c827f1d48aebb83760ef1238
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 568}
+  - name: PoisonCast_96x96_Frame_33
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 606a5087964515043a0933d3064bb35a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 709}
+  - name: PoisonCast_96x96_Frame_34
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 8b0c39c78d64f5143bb482a3002a5f7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 565, y: 850}
+  - name: PoisonCast_96x96_Frame_35
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 4
+      width: 133
+      height: 133
+    spriteID: e53fb123120c86a49b9d03512ca45fef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 706, y: 4}
+  - name: PoisonCast_96x96_Frame_36
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 5a53acd06b55e7e4980639eec4381340
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 706, y: 145}
+  - name: PoisonCast_96x96_Frame_37
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 2c4abe557bb060240a0d48cf4b40d96e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 706, y: 286}
+  - name: PoisonCast_96x96_Frame_38
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 4b90ba6db1b044a41b4cee48332c939d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 706, y: 427}
+  - name: PoisonCast_96x96_Frame_39
+    originalName: 
+    pivot: {x: 0.4962406, y: 0.13533834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 804595ee41cdf5e40b53e89a7d8ea77a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 706, y: 568}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1427652884
+    name: PoisonCast_96x96
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: PoisonCast_96x96_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 157a86678dc99114ab82933abd7710a5
+    - name: PoisonCast_96x96_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 74a196925b9c14044bf9306219ed2984
+    - name: PoisonCast_96x96_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 0e7d07102951fe04fab82885a95e1958
+    - name: PoisonCast_96x96_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 95ecf60dc1bd9a4478ea6e5e5713d18c
+    - name: PoisonCast_96x96_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: b6d30c7960decbf43a3c29a6c6eb0c96
+    - name: PoisonCast_96x96_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 50b59599fba0b994c8645276212fc450
+    - name: PoisonCast_96x96_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: eae374ebef9e5b749acfecb0f0fa810c
+    - name: PoisonCast_96x96_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 8c296a70835867f44a5720c1c8cc819c
+    - name: PoisonCast_96x96_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: b0d05fdc2ff64644db4ad4e663c94bc0
+    - name: PoisonCast_96x96_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 33a08991e42532843b48f0cca7b4e67b
+    - name: PoisonCast_96x96_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 3c35f6ead8d23d44f8404a2d786d3890
+    - name: PoisonCast_96x96_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: fc994e6123ba15f4cacee133d8d7fbc7
+    - name: PoisonCast_96x96_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: fcbdc58ec0dc1c645bf5885526827f92
+    - name: PoisonCast_96x96_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: d3ee0c048271b5843b5fa70720bc7ef9
+    - name: PoisonCast_96x96_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 0d7727df944500543807d127b0bfd4f8
+    - name: PoisonCast_96x96_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 572c0f65faeb9b447aecd8a0e8fbe251
+    - name: PoisonCast_96x96_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 4d0cadc3bb0a0424db1bfde54b021e98
+    - name: PoisonCast_96x96_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: c11afd0d2f69237449b1f21869c7e971
+    - name: PoisonCast_96x96_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: df4bc589411ec3d45a1eefca19516f48
+    - name: PoisonCast_96x96_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 7fc27fd290ad96945952e1012d1e268c
+    - name: PoisonCast_96x96_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: bd6ba576bf9d2d043b13d1d74ba210c6
+    - name: PoisonCast_96x96_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 6459014188151514d8fbd203cc99f901
+    - name: PoisonCast_96x96_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: cfc1b3481e4c1024882ff49cdf9a5891
+    - name: PoisonCast_96x96_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: b26c33901a2d72945bcf1c27b9490dde
+    - name: PoisonCast_96x96_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 943cfc404232fa94faf407f9fad2f4ae
+    - name: PoisonCast_96x96_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 80e8f719bbb6bd0418230074be4c1961
+    - name: PoisonCast_96x96_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 06b44e7878abe1a44aa7443277224fe2
+    - name: PoisonCast_96x96_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 2af613c889f6ffa4aa9c03a2e7f92ef0
+    - name: PoisonCast_96x96_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 1f345a9e8518a4d4cb3709b21733c375
+    - name: PoisonCast_96x96_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 50189bc105e0456489e931bdd2c9105e
+    - name: PoisonCast_96x96_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: b89c6e02603d9af428dcc6ee77946cbc
+    - name: PoisonCast_96x96_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 54c6a30f4e3a60c4dac37c5514786928
+    - name: PoisonCast_96x96_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: ba3e26f9c827f1d48aebb83760ef1238
+    - name: PoisonCast_96x96_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 606a5087964515043a0933d3064bb35a
+    - name: PoisonCast_96x96_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 8b0c39c78d64f5143bb482a3002a5f7e
+    - name: PoisonCast_96x96_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: e53fb123120c86a49b9d03512ca45fef
+    - name: PoisonCast_96x96_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 5a53acd06b55e7e4980639eec4381340
+    - name: PoisonCast_96x96_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 2c4abe557bb060240a0d48cf4b40d96e
+    - name: PoisonCast_96x96_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 4b90ba6db1b044a41b4cee48332c939d
+    - name: PoisonCast_96x96_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: -21
+        y: -18
+        width: 136
+        height: 133
+      spriteId: 804595ee41cdf5e40b53e89a7d8ea77a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}

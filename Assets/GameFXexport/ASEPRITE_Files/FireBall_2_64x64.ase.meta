@@ -1,0 +1,1396 @@
+fileFormatVersion: 2
+guid: fda4379719370954b88ad3b515faea5b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: FireBall_2_64x64_Frame_0
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 5f520a2138858f64f981d56e07ed582f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: FireBall_2_64x64_Frame_1
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 7d7ee07ff6b56044b87ace396e05fda1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 145}
+  - name: FireBall_2_64x64_Frame_2
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 286
+      width: 133
+      height: 133
+    spriteID: a8faad721c9316649ba3b68b2cb8ae48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 286}
+  - name: FireBall_2_64x64_Frame_3
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 427
+      width: 133
+      height: 133
+    spriteID: c5dc4747e6d48f047a61b96925688aa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 427}
+  - name: FireBall_2_64x64_Frame_4
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 3840cb1526f9a2c409f6f53315a9c68e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 568}
+  - name: FireBall_2_64x64_Frame_5
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 4404dd9285976ae4b95c0f3c6007fdee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 709}
+  - name: FireBall_2_64x64_Frame_6
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 2be5885704491a542845acfd149edc39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 850}
+  - name: FireBall_2_64x64_Frame_7
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 2e735330300ac204bbb16b25766edf28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 4}
+  - name: FireBall_2_64x64_Frame_8
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 145
+      width: 133
+      height: 133
+    spriteID: f935fe066677030408175755f753b581
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 145}
+  - name: FireBall_2_64x64_Frame_9
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 0768e60e500ed3b4baebd493db943601
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 286}
+  - name: FireBall_2_64x64_Frame_10
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 49460b2ecc1c3204685121956c07e1eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 427}
+  - name: FireBall_2_64x64_Frame_11
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 568
+      width: 133
+      height: 133
+    spriteID: eb296bf54cd860f44b83814280049227
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 568}
+  - name: FireBall_2_64x64_Frame_12
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 709
+      width: 133
+      height: 133
+    spriteID: c8cfe31ea8aad7049adbfa07f446f9e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 709}
+  - name: FireBall_2_64x64_Frame_13
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 693bccb52b8007e4891484a5dad22775
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 850}
+  - name: FireBall_2_64x64_Frame_14
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 4
+      width: 133
+      height: 133
+    spriteID: bee489030e9599144b36f9f9dabaf5e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 4}
+  - name: FireBall_2_64x64_Frame_15
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 145
+      width: 133
+      height: 133
+    spriteID: d3c3ab2f42002914b92dbc8f4b425d4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 145}
+  - name: FireBall_2_64x64_Frame_16
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 4a547f6feb694dc4b8273407e5d25eb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 286}
+  - name: FireBall_2_64x64_Frame_17
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 8bec03f13cd8c5d4190db6d32d923e40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 427}
+  - name: FireBall_2_64x64_Frame_18
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 3d87d068354f46d4fb77e2283681f37a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 568}
+  - name: FireBall_2_64x64_Frame_19
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 09d11f6891605744581749fb43b21c9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 709}
+  - name: FireBall_2_64x64_Frame_20
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 02b438d6d02e1824ab5052b6e8d4882e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 850}
+  - name: FireBall_2_64x64_Frame_21
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 4
+      width: 133
+      height: 133
+    spriteID: e1786e22cb69d2f44909b0f40e7462b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 4}
+  - name: FireBall_2_64x64_Frame_22
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 145
+      width: 133
+      height: 133
+    spriteID: 477abcc378362224dad160a99f184422
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 145}
+  - name: FireBall_2_64x64_Frame_23
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 286
+      width: 133
+      height: 133
+    spriteID: cd01c93096d30b747b0687390cc4d176
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 286}
+  - name: FireBall_2_64x64_Frame_24
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 46c15d74488e4974aab97a6c347eb442
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 427}
+  - name: FireBall_2_64x64_Frame_25
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 8a05031dda212bd4e91b220dc9592fc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 568}
+  - name: FireBall_2_64x64_Frame_26
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 916cb4afe93a15648b5255341356e88c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 709}
+  - name: FireBall_2_64x64_Frame_27
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 3eb8cad25c8000349bda3ffc59f08638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 850}
+  - name: FireBall_2_64x64_Frame_28
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 182572449c4440445824aca1f53cfb12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 4}
+  - name: FireBall_2_64x64_Frame_29
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 145
+      width: 133
+      height: 133
+    spriteID: b6e52ab9e4a9e9e4fbf568c2c04bcf5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 145}
+  - name: FireBall_2_64x64_Frame_30
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 0f90493912634434eb93367e02f7270d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 286}
+  - name: FireBall_2_64x64_Frame_31
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 80f9e51c03eb32b41b48d54028a3fa1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 427}
+  - name: FireBall_2_64x64_Frame_32
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 568
+      width: 133
+      height: 133
+    spriteID: 207a8f56ed7d6c1458bb86fc82ecd757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 568}
+  - name: FireBall_2_64x64_Frame_33
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 709
+      width: 133
+      height: 133
+    spriteID: 4b9370fd6a9ce9c4487cdd7170915195
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 709}
+  - name: FireBall_2_64x64_Frame_34
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 568
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 9a5d04123924da74d806dc4540dcdfaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 850}
+  - name: FireBall_2_64x64_Frame_35
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 1c7c0d490e56da141b518e11112efe53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 4}
+  - name: FireBall_2_64x64_Frame_36
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 145
+      width: 133
+      height: 133
+    spriteID: b11eee64d819b3c45b686790a0e2ac05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 145}
+  - name: FireBall_2_64x64_Frame_37
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 286
+      width: 133
+      height: 133
+    spriteID: c82c2cbc171e2b149ae3294589c343dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 286}
+  - name: FireBall_2_64x64_Frame_38
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 427
+      width: 133
+      height: 133
+    spriteID: 54b6a8645ff77024984be42e9ef878d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 427}
+  - name: FireBall_2_64x64_Frame_39
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 568
+      width: 133
+      height: 133
+    spriteID: f3817f50f9475f24892e569651924e90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 568}
+  - name: FireBall_2_64x64_Frame_40
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 709
+      width: 133
+      height: 133
+    spriteID: db0c293c677974846a4348cd823cc416
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 709}
+  - name: FireBall_2_64x64_Frame_41
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 850
+      width: 133
+      height: 133
+    spriteID: 44667d1fec464e04b8b67e3e71742464
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 850}
+  - name: FireBall_2_64x64_Frame_42
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 4
+      width: 133
+      height: 133
+    spriteID: 095eb7dd676ab3243b5e744d937413bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 4}
+  - name: FireBall_2_64x64_Frame_43
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 145
+      width: 133
+      height: 133
+    spriteID: fe65485f6ef73d84f882f19e7d5003b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 145}
+  - name: FireBall_2_64x64_Frame_44
+    originalName: 
+    pivot: {x: 0.49624062, y: 0.2556391}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 286
+      width: 133
+      height: 133
+    spriteID: 605a3722ddda3a3438deaa965e736ccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 286}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1708668965
+    name: FireBall_2_64x64
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: FireBall_2_64x64_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 5f520a2138858f64f981d56e07ed582f
+    - name: FireBall_2_64x64_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 7d7ee07ff6b56044b87ace396e05fda1
+    - name: FireBall_2_64x64_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: a8faad721c9316649ba3b68b2cb8ae48
+    - name: FireBall_2_64x64_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: c5dc4747e6d48f047a61b96925688aa1
+    - name: FireBall_2_64x64_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 3840cb1526f9a2c409f6f53315a9c68e
+    - name: FireBall_2_64x64_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 4404dd9285976ae4b95c0f3c6007fdee
+    - name: FireBall_2_64x64_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 2be5885704491a542845acfd149edc39
+    - name: FireBall_2_64x64_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 2e735330300ac204bbb16b25766edf28
+    - name: FireBall_2_64x64_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: f935fe066677030408175755f753b581
+    - name: FireBall_2_64x64_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 0768e60e500ed3b4baebd493db943601
+    - name: FireBall_2_64x64_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 49460b2ecc1c3204685121956c07e1eb
+    - name: FireBall_2_64x64_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: eb296bf54cd860f44b83814280049227
+    - name: FireBall_2_64x64_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: c8cfe31ea8aad7049adbfa07f446f9e1
+    - name: FireBall_2_64x64_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 693bccb52b8007e4891484a5dad22775
+    - name: FireBall_2_64x64_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: bee489030e9599144b36f9f9dabaf5e7
+    - name: FireBall_2_64x64_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: d3c3ab2f42002914b92dbc8f4b425d4f
+    - name: FireBall_2_64x64_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 4a547f6feb694dc4b8273407e5d25eb3
+    - name: FireBall_2_64x64_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 8bec03f13cd8c5d4190db6d32d923e40
+    - name: FireBall_2_64x64_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 3d87d068354f46d4fb77e2283681f37a
+    - name: FireBall_2_64x64_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 09d11f6891605744581749fb43b21c9f
+    - name: FireBall_2_64x64_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 02b438d6d02e1824ab5052b6e8d4882e
+    - name: FireBall_2_64x64_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: e1786e22cb69d2f44909b0f40e7462b0
+    - name: FireBall_2_64x64_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 477abcc378362224dad160a99f184422
+    - name: FireBall_2_64x64_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: cd01c93096d30b747b0687390cc4d176
+    - name: FireBall_2_64x64_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 46c15d74488e4974aab97a6c347eb442
+    - name: FireBall_2_64x64_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 8a05031dda212bd4e91b220dc9592fc9
+    - name: FireBall_2_64x64_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 916cb4afe93a15648b5255341356e88c
+    - name: FireBall_2_64x64_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 3eb8cad25c8000349bda3ffc59f08638
+    - name: FireBall_2_64x64_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 182572449c4440445824aca1f53cfb12
+    - name: FireBall_2_64x64_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: b6e52ab9e4a9e9e4fbf568c2c04bcf5e
+    - name: FireBall_2_64x64_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 0f90493912634434eb93367e02f7270d
+    - name: FireBall_2_64x64_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 80f9e51c03eb32b41b48d54028a3fa1a
+    - name: FireBall_2_64x64_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 207a8f56ed7d6c1458bb86fc82ecd757
+    - name: FireBall_2_64x64_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 4b9370fd6a9ce9c4487cdd7170915195
+    - name: FireBall_2_64x64_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 9a5d04123924da74d806dc4540dcdfaa
+    - name: FireBall_2_64x64_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 1c7c0d490e56da141b518e11112efe53
+    - name: FireBall_2_64x64_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: b11eee64d819b3c45b686790a0e2ac05
+    - name: FireBall_2_64x64_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: c82c2cbc171e2b149ae3294589c343dd
+    - name: FireBall_2_64x64_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 54b6a8645ff77024984be42e9ef878d5
+    - name: FireBall_2_64x64_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: f3817f50f9475f24892e569651924e90
+    - name: FireBall_2_64x64_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: db0c293c677974846a4348cd823cc416
+    - name: FireBall_2_64x64_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 44667d1fec464e04b8b67e3e71742464
+    - name: FireBall_2_64x64_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 095eb7dd676ab3243b5e744d937413bc
+    - name: FireBall_2_64x64_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: fe65485f6ef73d84f882f19e7d5003b0
+    - name: FireBall_2_64x64_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: -34
+        y: -34
+        width: 148
+        height: 134
+      spriteId: 605a3722ddda3a3438deaa965e736ccc
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
